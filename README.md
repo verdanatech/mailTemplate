@@ -2,4 +2,4 @@
 
 
 
-![Alt text](image.png?raw=true "Title")
+![Alt text](image.png?raw=true "Template de E-mail")
